@@ -107,4 +107,5 @@ AI & ML Student | Frontend Developer | UI/UX Enthusiast
 This project is open-source and free to use for learning purposes.
 
 ⭐ If you like this project, give it a star on GitHub!
+Output:https://karthikeyan0069.github.io/mygallery/
 
